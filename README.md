@@ -6,3 +6,5 @@ Check if two strings are anagrams in Python.
 Clone this project and look at the source files:
 - `main.py`
 - `checker.py`
+
+*Initialized by willlliammmsmithhh workspace automation.*
